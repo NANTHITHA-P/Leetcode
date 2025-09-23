@@ -4,10 +4,11 @@ class Solution {
             res.add(new ArrayList<>(temp));
             return;
         }
-        for(int i = s;i<=n;i++){
-        temp.add(i);
-        combine(res,n,i+1,k,temp);
+        while(s<=n){
+        temp.add(s);
+        combine(res,n,s+1,k,temp);
         temp.remove(temp.size()-1);
+        s++;
         }
     }
     public List<List<Integer>> combine(int n, int k) {
