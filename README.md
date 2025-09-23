@@ -20,10 +20,19 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/NANTHITHA-P/Leetcode/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/NANTHITHA-P/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0064-minimum-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/NANTHITHA-P/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/NANTHITHA-P/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
