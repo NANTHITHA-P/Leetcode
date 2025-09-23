@@ -4,12 +4,11 @@ class Solution {
             res.add(new ArrayList<>(temp));
             return;
         }
-        while(s<=n){
+        if(s>n) return;
         temp.add(s);
         combine(res,n,s+1,k,temp);
         temp.remove(temp.size()-1);
-        s++;
-        }
+        combine(res,n,s+1,k,temp);
     }
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> res = new ArrayList<>();
