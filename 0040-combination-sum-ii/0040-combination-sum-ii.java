@@ -1,7 +1,7 @@
 class Solution {
     public void combine(int[] c,int t,int index,List<List<Integer>> res,List<Integer> temp){
         if(t == 0){
-            if(!res.contains(temp))
+           // if(!res.contains(temp))
             res.add(new ArrayList<>(temp));
             return;
         }
