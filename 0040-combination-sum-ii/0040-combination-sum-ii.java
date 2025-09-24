@@ -7,9 +7,9 @@ class Solution {
         }
         for(int i=index;i<c.length;i++){
             if(c[i]>t) break;
-            if(i>index && c[i-1]==c[i]) continue;
             temp.add(c[i]);
             combine(c,t-c[i],i+1,res,temp);
+            while(i<c.length-1 && c[i]==c[i+1]) i++;//to remove duplicates
             temp.remove(temp.size()-1);
         }
     }
