@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/NANTHITHA-P/Leetcode/tree/master/0037-sudoku-solver) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0210-course-schedule-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0210-course-schedule-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -99,8 +103,13 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
