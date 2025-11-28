@@ -14,6 +14,7 @@
 | [0064-minimum-path-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/NANTHITHA-P/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/NANTHITHA-P/Leetcode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/NANTHITHA-P/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -49,6 +50,7 @@
 | [0077-combinations](https://github.com/NANTHITHA-P/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/NANTHITHA-P/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
@@ -92,6 +94,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -101,6 +104,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -118,5 +122,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
