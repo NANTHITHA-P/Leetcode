@@ -1,22 +1,25 @@
 class Solution {
-    public boolean dfs(char[][] board,int i,int j,int len,String word){
-        if(len == word.length()) return true;
-        if(i<0 || i>=board.length||j<0||j>=board[0].length||board[i][j]!=word.charAt(len)) return false;
-        char temp = board[i][j];
-        board[i][j]='#';
-        boolean found = dfs(board,i+1,j,len+1,word)||
-            dfs(board,i-1,j,len+1,word)||
-            dfs(board,i,j-1,len+1,word)||
-            dfs(board,i,j+1,len+1,word);
-            board[i][j]=temp;
-            return found;
+    public boolean dfs(char[][] board,boolean[][] vis,int i,int j,String word,int ind){
+        if(ind == word.length())//base condition when it is empty string it should be true
+         return true;
+         if(i<0||i>=board.length||j<0||j>=board[0].length||board[i][j]!=word.charAt(ind)||vis[i][j]){//vis[i][j] true means it return false because it should be visited only once
+            return false;
+         }
+         vis[i][j]=true;
+         if(dfs(board,vis,i-1,j,word,ind+1)||dfs(board,vis,i+1,j,word,ind+1)||dfs(board,vis,i,j-1,word,ind+1)||dfs(board,vis,i,j+1,word,ind+1)) return true;
+         vis[i][j]=false;
+         return false;
     }
     public boolean exist(char[][] board, String word) {
-     //boolean[] visited= new boolean[word.length()];
+        boolean[][] vis = new boolean[board.length][board[0].length];
         for(int i=0;i<board.length;i++){
-            for(int j=0;j<board[0].length;j++){
-                  if(dfs(board,i,j,0,word)) return true;
+            for(int j = 0;j<board[0].length;j++){
+                if(board[i][j]==word.charAt(0)){
+                    if(dfs(board,vis,i,j,word,0)){
+                        return true;
+                    }
                 }
+            }
         }
         return false;
     }
