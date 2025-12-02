@@ -21,6 +21,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NANTHITHA-P/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/NANTHITHA-P/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0695-max-area-of-island](https://github.com/NANTHITHA-P/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/NANTHITHA-P/Leetcode/tree/master/0994-rotting-oranges) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/NANTHITHA-P/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/NANTHITHA-P/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -116,6 +118,7 @@
 | [0207-course-schedule](https://github.com/NANTHITHA-P/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NANTHITHA-P/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/NANTHITHA-P/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Topological Sort
 |  |
 | ------- |
