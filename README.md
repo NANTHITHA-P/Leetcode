@@ -173,4 +173,12 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NANTHITHA-P/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NANTHITHA-P/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NANTHITHA-P/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
