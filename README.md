@@ -33,6 +33,7 @@
 | [0040-combination-sum-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/NANTHITHA-P/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/NANTHITHA-P/Leetcode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/NANTHITHA-P/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/NANTHITHA-P/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/NANTHITHA-P/Leetcode/tree/master/0079-word-search) |
@@ -157,6 +158,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/NANTHITHA-P/Leetcode/tree/master/0056-merge-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
