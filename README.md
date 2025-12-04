@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NANTHITHA-P/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/NANTHITHA-P/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -159,6 +160,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NANTHITHA-P/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0095-unique-binary-search-trees-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Union Find
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NANTHITHA-P/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NANTHITHA-P/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
