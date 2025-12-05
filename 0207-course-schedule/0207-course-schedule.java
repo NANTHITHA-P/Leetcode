@@ -1,16 +1,15 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        List<Integer>[] adj = new List[numCourses];
+        List<List<Integer>> graph = new ArrayList<>();
         int[] indegree = new int[numCourses];
-        List<Integer> ans = new ArrayList<>();//to append topological sort answers
-        for(int[] pair:prerequisites){
-            int course = pair[0];
-            int pre = pair[1];
-            if(adj[pre]==null){//seeing whether that list is null or not (ie) any outdegree is present for that vertex or not
-                adj[pre] = new ArrayList<>();
-            }
-            adj[pre].add(course);
-            indegree[course]++;
+        for(int i=0;i<numCourses;i++){
+            graph.add(new ArrayList<>());
+        }
+        for(int[] next: prerequisites){
+            int  cou= next[0];
+            int preq = next[1];
+            graph.get(preq).add(cou);
+            indegree[cou]++;
         }
         Queue<Integer> q = new LinkedList<>();
         for(int i=0;i<numCourses;i++){
@@ -18,18 +17,17 @@ class Solution {
                 q.offer(i);
             }
         }
-         while(!q.isEmpty()){
-            int cur = q.poll();
-            ans.add(cur);
-            if(adj[cur]!=null){
-                for(int next : adj[cur]){
-                    indegree[next]--;
-                    if(indegree[next]==0){
-                        q.offer(next);
-                    }
-                }
-            }
-         }
-         return ans.size()==numCourses;
+        int completed = 0;
+        while(!q.isEmpty()){
+          int cur = q.poll();
+          completed++;
+          for(int next : graph.get(cur)){
+              indegree[next]--;//here we are decrementing the indegree of neighbour 
+              if(indegree[next]==0) {
+                q.offer(next);
+              }
+          }
+        }
+        return completed == numCourses;
     }
 }
