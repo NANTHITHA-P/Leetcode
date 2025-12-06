@@ -6,17 +6,17 @@ class Solution {
         }
         boolean[][] dp  = new boolean[n][n];
         int start = 0,maxLen = 1;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){//a character itself is a palindromic substring
             dp[i][i]=true;
         }
-        for(int i=0;i<n-1;i++){
+        for(int i=0;i<n-1;i++){//checking 2 characters
             if(s.charAt(i)==s.charAt(i+1)){
                 dp[i][i+1] = true;
                 start = i;
                 maxLen = 2;
             }
         }
-        for(int len = 3;len<=n;len++){
+        for(int len = 3;len<=n;len++){//checking 3 characters
             for(int i = 0;i<=n-len;i++){
                 int j = i+len-1;
                 if(s.charAt(i) == s.charAt(j) && dp[i+1][j-1]){
