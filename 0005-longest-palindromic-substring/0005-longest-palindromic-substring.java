@@ -1,25 +1,33 @@
 class Solution {
     public String longestPalindrome(String s) {
-       if(s==null || s.length()<2){
-        return s;
-       }
-       int start = 0,end = 0;
-       for(int i=0;i<s.length();i++){
-          int len1 = expand(s,i,i);//finding odd length string is palindrome
-          int len2 = expand(s,i,i+1);//finding even length string is palindrome
-          int len = Math.max(len1,len2);
-          if(len > end - start){//to consider only longest palindromic substring
-            start = i - (len-1)/2; //here we are considering i is at centre position i - (len-1)/2 this will give value before i ,len-1 because indexing starts from 0
-            end = i + len/2;// here i is at centre position i_len/2 gives value after i
-          }
-       }
-       return s.substring(start,end+1); 
-    }
-    public int expand(String s,int left,int right){
-        while(left>=0 && right<s.length() && s.charAt(left) == s.charAt(right)){
-            left--;
-            right++;
+        int n = s.length();
+        if(n<=1){
+            return s;
         }
-        return right-left-1;
+        boolean[][] dp  = new boolean[n][n];
+        int start = 0,maxLen = 1;
+        for(int i=0;i<n;i++){
+            dp[i][i]=true;
+        }
+        for(int i=0;i<n-1;i++){
+            if(s.charAt(i)==s.charAt(i+1)){
+                dp[i][i+1] = true;
+                start = i;
+                maxLen = 2;
+            }
+        }
+        for(int len = 3;len<=n;len++){
+            for(int i = 0;i<=n-len;i++){
+                int j = i+len-1;
+                if(s.charAt(i) == s.charAt(j) && dp[i+1][j-1]){
+                    dp[i][j] = true;
+                    if(len>maxLen){
+                        maxLen = len;
+                        start = i;
+                    }
+                }
+            }
+        }
+        return s.substring(start,start+maxLen);
     }
 }
