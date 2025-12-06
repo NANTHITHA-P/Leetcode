@@ -9,6 +9,7 @@
 | [0072-edit-distance](https://github.com/NANTHITHA-P/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/NANTHITHA-P/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/NANTHITHA-P/Leetcode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/NANTHITHA-P/Leetcode/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1250-longest-common-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
@@ -213,6 +214,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NANTHITHA-P/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/NANTHITHA-P/Leetcode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/NANTHITHA-P/Leetcode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
