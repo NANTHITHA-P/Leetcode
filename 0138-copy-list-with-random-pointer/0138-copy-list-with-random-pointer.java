@@ -28,9 +28,9 @@ class Solution {
         cur = head;
         while(cur!=null){// storing the random part in the copy nodes
             if(cur.random!=null){
-                cur.next.random = cur.random.next;
+                cur.next.random = cur.random.next;// copy.random = orig.random.next
             }
-            cur = cur.next.next;
+            cur = cur.next.next;// move to next original node
         }
         cur = head;
         Node newHead = head.next;
