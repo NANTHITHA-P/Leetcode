@@ -197,6 +197,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/NANTHITHA-P/Leetcode/tree/master/0062-unique-paths) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/NANTHITHA-P/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NANTHITHA-P/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
