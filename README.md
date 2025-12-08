@@ -10,6 +10,7 @@
 | [0079-word-search](https://github.com/NANTHITHA-P/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/NANTHITHA-P/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/NANTHITHA-P/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1250-longest-common-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NANTHITHA-P/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/NANTHITHA-P/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NANTHITHA-P/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -46,6 +48,7 @@
 | [0079-word-search](https://github.com/NANTHITHA-P/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NANTHITHA-P/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/NANTHITHA-P/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/NANTHITHA-P/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -91,6 +94,7 @@
 | [0037-sudoku-solver](https://github.com/NANTHITHA-P/Leetcode/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/NANTHITHA-P/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/NANTHITHA-P/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -239,4 +243,12 @@
 | [0002-add-two-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/NANTHITHA-P/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/NANTHITHA-P/Leetcode/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
