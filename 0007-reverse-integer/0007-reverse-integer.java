@@ -9,7 +9,7 @@ class Solution {
             x/=10;
         }
 
-        if(rev >= max && rev <=min){
+        if(rev >= max || rev <=min){
             return 0;
         }
         else{
