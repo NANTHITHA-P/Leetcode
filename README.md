@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NANTHITHA-P/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/NANTHITHA-P/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/NANTHITHA-P/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/NANTHITHA-P/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/NANTHITHA-P/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/NANTHITHA-P/Leetcode/tree/master/0091-decode-ways) |
