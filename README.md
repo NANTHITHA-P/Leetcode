@@ -45,6 +45,7 @@
 | [0039-combination-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/NANTHITHA-P/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/NANTHITHA-P/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/NANTHITHA-P/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/NANTHITHA-P/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/NANTHITHA-P/Leetcode/tree/master/0056-merge-intervals) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/NANTHITHA-P/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/NANTHITHA-P/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/NANTHITHA-P/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/NANTHITHA-P/Leetcode/tree/master/0200-number-of-islands) |
@@ -208,6 +210,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/NANTHITHA-P/Leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/NANTHITHA-P/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/NANTHITHA-P/Leetcode/tree/master/0062-unique-paths) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NANTHITHA-P/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NANTHITHA-P/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
