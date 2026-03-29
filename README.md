@@ -276,4 +276,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/NANTHITHA-P/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/NANTHITHA-P/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
