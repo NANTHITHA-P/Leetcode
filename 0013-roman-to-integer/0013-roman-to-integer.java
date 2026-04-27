@@ -1,24 +1,31 @@
 class Solution {
-    public int romanToInt(String str) {
-        int[] n = {1000,900,500,400,100,90,50,40,10,9,5,4,1};
-        String[] s = {"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};
-        int i=0,j=0,res=0;
-        while(i<str.length()){
-            if(i+1<str.length()){
-                String s1 = str.substring(i,i+2);
-                if(s1.equals(s[j])){
-                    res += n[j];
-                    i+=2;
-                    continue;
-                }
-            }
-            String s2 = str.substring(i,i+1);
-            if(s2.equals(s[j])){
-                res+=n[j];
-                i+=1;
+    public int value(char ch){
+        switch(ch){
+            case 'I': 
+            return 1;
+            case 'V': 
+            return 5;
+            case 'X': 
+            return 10;
+            case 'L': 
+            return 50;
+            case 'C': 
+            return 100;
+            case 'D': 
+            return 500;
+            default: 
+            return 1000;
+        }
+    }
+    public int romanToInt(String s) {
+        int res = 0;
+        for(int i=0;i<s.length();i++){
+            int current = value(s.charAt(i));
+            if(i+1<s.length() && current < value(s.charAt(i+1))){
+                res -= current;
             }
             else{
-                j++;
+                res += current;
             }
         }
         return res;
