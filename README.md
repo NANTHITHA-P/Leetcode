@@ -62,6 +62,7 @@
 | [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/NANTHITHA-P/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/NANTHITHA-P/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/NANTHITHA-P/Leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0695-max-area-of-island](https://github.com/NANTHITHA-P/Leetcode/tree/master/0695-max-area-of-island) |
@@ -222,11 +223,13 @@
 | [0013-roman-to-integer](https://github.com/NANTHITHA-P/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/NANTHITHA-P/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/NANTHITHA-P/Leetcode/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/NANTHITHA-P/Leetcode/tree/master/0204-count-primes) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NANTHITHA-P/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NANTHITHA-P/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NANTHITHA-P/Leetcode/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NANTHITHA-P/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
@@ -299,4 +302,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/NANTHITHA-P/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0059-spiral-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NANTHITHA-P/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
