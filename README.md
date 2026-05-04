@@ -32,6 +32,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/NANTHITHA-P/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0396-rotate-function](https://github.com/NANTHITHA-P/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NANTHITHA-P/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -64,6 +65,7 @@
 | [0200-number-of-islands](https://github.com/NANTHITHA-P/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/NANTHITHA-P/Leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0396-rotate-function](https://github.com/NANTHITHA-P/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0695-max-area-of-island](https://github.com/NANTHITHA-P/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/NANTHITHA-P/Leetcode/tree/master/0994-rotting-oranges) |
@@ -228,6 +230,7 @@
 | [0048-rotate-image](https://github.com/NANTHITHA-P/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/NANTHITHA-P/Leetcode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/NANTHITHA-P/Leetcode/tree/master/0204-count-primes) |
+| [0396-rotate-function](https://github.com/NANTHITHA-P/Leetcode/tree/master/0396-rotate-function) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NANTHITHA-P/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NANTHITHA-P/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
