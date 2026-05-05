@@ -251,6 +251,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NANTHITHA-P/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/NANTHITHA-P/Leetcode/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/NANTHITHA-P/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/NANTHITHA-P/Leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/NANTHITHA-P/Leetcode/tree/master/0143-reorder-list) |
@@ -269,6 +270,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/NANTHITHA-P/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/NANTHITHA-P/Leetcode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/NANTHITHA-P/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/NANTHITHA-P/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/NANTHITHA-P/Leetcode/tree/master/0206-reverse-linked-list) |
