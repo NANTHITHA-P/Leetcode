@@ -60,6 +60,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NANTHITHA-P/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NANTHITHA-P/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NANTHITHA-P/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
@@ -115,6 +116,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NANTHITHA-P/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/NANTHITHA-P/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NANTHITHA-P/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NANTHITHA-P/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/NANTHITHA-P/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/NANTHITHA-P/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
@@ -175,6 +177,7 @@
 | [0098-validate-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NANTHITHA-P/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NANTHITHA-P/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NANTHITHA-P/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -191,6 +194,7 @@
 | [0098-validate-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NANTHITHA-P/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NANTHITHA-P/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NANTHITHA-P/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -258,6 +262,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NANTHITHA-P/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NANTHITHA-P/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NANTHITHA-P/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Two Pointers
