@@ -74,6 +74,7 @@
 | [0695-max-area-of-island](https://github.com/NANTHITHA-P/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/NANTHITHA-P/Leetcode/tree/master/0994-rotting-oranges) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/NANTHITHA-P/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2553-separate-the-digits-in-an-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/NANTHITHA-P/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -334,6 +335,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/NANTHITHA-P/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
