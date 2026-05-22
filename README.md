@@ -44,6 +44,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/NANTHITHA-P/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/NANTHITHA-P/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/NANTHITHA-P/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/NANTHITHA-P/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NANTHITHA-P/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0098-validate-binary-search-tree) |
