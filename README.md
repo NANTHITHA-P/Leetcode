@@ -85,6 +85,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/NANTHITHA-P/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/NANTHITHA-P/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3842-toggle-light-bulbs](https://github.com/NANTHITHA-P/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Matrix
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/NANTHITHA-P/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3842-toggle-light-bulbs](https://github.com/NANTHITHA-P/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [0056-merge-intervals](https://github.com/NANTHITHA-P/Leetcode/tree/master/0056-merge-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/NANTHITHA-P/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3842-toggle-light-bulbs](https://github.com/NANTHITHA-P/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -362,6 +365,7 @@
 | [0059-spiral-matrix-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NANTHITHA-P/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3842-toggle-light-bulbs](https://github.com/NANTHITHA-P/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Enumeration
 |  |
 | ------- |
