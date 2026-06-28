@@ -22,9 +22,7 @@ class Solution {
         //       max = arr[i];
         //    }
         // }
-        for(int i=0;i<arr.length;i++){
-            System.out.print(arr[i] + " ");
-        }
+        
         return arr[arr.length-1];
     }
 }
