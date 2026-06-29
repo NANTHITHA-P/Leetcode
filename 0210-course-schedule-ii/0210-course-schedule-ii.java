@@ -1,16 +1,16 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        List<Integer>[] adj = new ArrayList[numCourses];
+        List<List<Integer>> graph = new ArrayList<>();
+        List<Integer> li = new ArrayList<>();
         int[] indegree = new int[numCourses];
-        List<Integer> ans = new ArrayList<>();
-        for(int pair[]:prerequisites){
-            int course = pair[0];
-            int pre = pair[1];
-            if(adj[pre]==null){
-                adj[pre]=new ArrayList<>();
-            }
-            adj[pre].add(course);
-            indegree[course]++;
+        for(int i=0;i<numCourses;i++){
+            graph.add(new ArrayList<>());
+        }
+        for(int[] next: prerequisites){
+            int  cou= next[0];
+            int preq = next[1];
+            graph.get(preq).add(cou);
+            indegree[cou]++;
         }
         Queue<Integer> q = new LinkedList<>();
         for(int i=0;i<numCourses;i++){
@@ -18,25 +18,27 @@ class Solution {
                 q.offer(i);
             }
         }
+        int completed = 0;
         while(!q.isEmpty()){
-            int cur = q.poll();
-            ans.add(cur);
-            if(adj[cur]!=null){
-                for(int next : adj[cur]){
-                    indegree[next]--;
-                    if(indegree[next]==0){
-                        q.offer(next);
-                    }
-                }
-            }
+          int cur = q.poll();
+          li.add(cur);
+          for(int next : graph.get(cur)){
+              indegree[next]--;//here we are decrementing the indegree of neighbour 
+              if(indegree[next]==0) {
+                q.offer(next);
+              }
+          }
         }
-        if(ans.size()!=numCourses){
+        if(li.size()!=numCourses){
             return new int[0];
         }
-       int[] result = new int[numCourses];
-       for(int i=0;i<numCourses;i++){
-        result[i]=ans.get(i);
-       }
-       return result;
+        else{
+            int res[] = new int[numCourses];
+            int i = 0;
+            for(int x : li){
+                res[i++] = x;
+            }
+            return res;
+        }
     }
 }
