@@ -383,6 +383,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NANTHITHA-P/Leetcode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/NANTHITHA-P/Leetcode/tree/master/1291-sequential-digits) |
 ## Doubly-Linked List
 |  |
 | ------- |
