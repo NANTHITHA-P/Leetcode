@@ -17,6 +17,7 @@
 | [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/NANTHITHA-P/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/NANTHITHA-P/Leetcode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/NANTHITHA-P/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -368,6 +369,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/NANTHITHA-P/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/NANTHITHA-P/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/NANTHITHA-P/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/NANTHITHA-P/Leetcode/tree/master/0394-decode-string) |
 ## Trie
 |  |
 | ------- |
@@ -382,6 +384,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/NANTHITHA-P/Leetcode/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/NANTHITHA-P/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/NANTHITHA-P/Leetcode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
