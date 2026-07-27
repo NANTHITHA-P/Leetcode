@@ -85,6 +85,7 @@
 | [0455-assign-cookies](https://github.com/NANTHITHA-P/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/NANTHITHA-P/Leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/NANTHITHA-P/Leetcode/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/NANTHITHA-P/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/NANTHITHA-P/Leetcode/tree/master/0994-rotting-oranges) |
 | [1833-maximum-ice-cream-bars](https://github.com/NANTHITHA-P/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -256,6 +257,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/NANTHITHA-P/Leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/NANTHITHA-P/Leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/NANTHITHA-P/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NANTHITHA-P/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -294,6 +296,7 @@
 | [0062-unique-paths](https://github.com/NANTHITHA-P/Leetcode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/NANTHITHA-P/Leetcode/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/NANTHITHA-P/Leetcode/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NANTHITHA-P/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NANTHITHA-P/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
