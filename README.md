@@ -17,6 +17,7 @@
 | [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/NANTHITHA-P/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0516-longest-palindromic-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/NANTHITHA-P/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NANTHITHA-P/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -39,6 +40,7 @@
 | [0152-maximum-product-subarray](https://github.com/NANTHITHA-P/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/NANTHITHA-P/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/NANTHITHA-P/Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NANTHITHA-P/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/1250-longest-common-subsequence) |
