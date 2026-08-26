@@ -101,6 +101,7 @@
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/NANTHITHA-P/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NANTHITHA-P/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NANTHITHA-P/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NANTHITHA-P/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/NANTHITHA-P/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3842-toggle-light-bulbs](https://github.com/NANTHITHA-P/Leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -119,6 +120,7 @@
 | [0542-01-matrix](https://github.com/NANTHITHA-P/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/NANTHITHA-P/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/NANTHITHA-P/Leetcode/tree/master/0994-rotting-oranges) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NANTHITHA-P/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/NANTHITHA-P/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Backtracking
 |  |
@@ -410,6 +412,7 @@
 | [0054-spiral-matrix](https://github.com/NANTHITHA-P/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NANTHITHA-P/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NANTHITHA-P/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3842-toggle-light-bulbs](https://github.com/NANTHITHA-P/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Enumeration
