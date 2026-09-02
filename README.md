@@ -106,6 +106,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/NANTHITHA-P/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3842-toggle-light-bulbs](https://github.com/NANTHITHA-P/Leetcode/tree/master/3842-toggle-light-bulbs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/NANTHITHA-P/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -314,6 +315,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NANTHITHA-P/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NANTHITHA-P/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/NANTHITHA-P/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
