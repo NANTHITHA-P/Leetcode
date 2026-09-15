@@ -99,6 +99,7 @@
 | [0739-daily-temperatures](https://github.com/NANTHITHA-P/Leetcode/tree/master/0739-daily-temperatures) |
 | [0942-di-string-match](https://github.com/NANTHITHA-P/Leetcode/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/NANTHITHA-P/Leetcode/tree/master/0994-rotting-oranges) |
+| [1089-duplicate-zeros](https://github.com/NANTHITHA-P/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NANTHITHA-P/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/NANTHITHA-P/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -357,6 +358,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/NANTHITHA-P/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/NANTHITHA-P/Leetcode/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/NANTHITHA-P/Leetcode/tree/master/0942-di-string-match) |
+| [1089-duplicate-zeros](https://github.com/NANTHITHA-P/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NANTHITHA-P/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NANTHITHA-P/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
