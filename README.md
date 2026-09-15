@@ -20,6 +20,7 @@
 | [0316-remove-duplicate-letters](https://github.com/NANTHITHA-P/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/NANTHITHA-P/Leetcode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0942-di-string-match](https://github.com/NANTHITHA-P/Leetcode/tree/master/0942-di-string-match) |
 | [1189-maximum-number-of-balloons](https://github.com/NANTHITHA-P/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NANTHITHA-P/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -96,6 +97,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/NANTHITHA-P/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/NANTHITHA-P/Leetcode/tree/master/0739-daily-temperatures) |
+| [0942-di-string-match](https://github.com/NANTHITHA-P/Leetcode/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/NANTHITHA-P/Leetcode/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/NANTHITHA-P/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -350,6 +352,7 @@
 | [0143-reorder-list](https://github.com/NANTHITHA-P/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NANTHITHA-P/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/NANTHITHA-P/Leetcode/tree/master/0455-assign-cookies) |
+| [0942-di-string-match](https://github.com/NANTHITHA-P/Leetcode/tree/master/0942-di-string-match) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NANTHITHA-P/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3794-reverse-string-prefix](https://github.com/NANTHITHA-P/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -362,6 +365,7 @@
 | [0316-remove-duplicate-letters](https://github.com/NANTHITHA-P/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/NANTHITHA-P/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/NANTHITHA-P/Leetcode/tree/master/0455-assign-cookies) |
+| [0942-di-string-match](https://github.com/NANTHITHA-P/Leetcode/tree/master/0942-di-string-match) |
 | [1833-maximum-ice-cream-bars](https://github.com/NANTHITHA-P/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NANTHITHA-P/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
