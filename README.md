@@ -247,6 +247,7 @@
 | [0226-invert-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -267,6 +268,7 @@
 | [0226-invert-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Design
@@ -296,6 +298,7 @@
 | [0098-validate-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NANTHITHA-P/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Union Find
 |  |
