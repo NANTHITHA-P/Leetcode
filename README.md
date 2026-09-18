@@ -90,6 +90,7 @@
 | [0200-number-of-islands](https://github.com/NANTHITHA-P/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/NANTHITHA-P/Leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/NANTHITHA-P/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/NANTHITHA-P/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/NANTHITHA-P/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -168,6 +169,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/NANTHITHA-P/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NANTHITHA-P/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/NANTHITHA-P/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NANTHITHA-P/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/NANTHITHA-P/Leetcode/tree/master/0056-merge-intervals) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/NANTHITHA-P/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/NANTHITHA-P/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -300,6 +303,7 @@
 | [0098-validate-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NANTHITHA-P/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Union Find
@@ -363,6 +367,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/NANTHITHA-P/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NANTHITHA-P/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NANTHITHA-P/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/NANTHITHA-P/Leetcode/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/NANTHITHA-P/Leetcode/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/NANTHITHA-P/Leetcode/tree/master/1089-duplicate-zeros) |
