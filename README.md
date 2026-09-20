@@ -28,6 +28,7 @@
 | [1250-longest-common-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NANTHITHA-P/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/NANTHITHA-P/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/NANTHITHA-P/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
@@ -453,6 +454,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/NANTHITHA-P/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NANTHITHA-P/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/NANTHITHA-P/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/NANTHITHA-P/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Enumeration
 |  |
