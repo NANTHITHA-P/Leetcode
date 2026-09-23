@@ -18,6 +18,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/NANTHITHA-P/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/NANTHITHA-P/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/NANTHITHA-P/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/NANTHITHA-P/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/NANTHITHA-P/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NANTHITHA-P/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -176,6 +177,7 @@
 | [0139-word-break](https://github.com/NANTHITHA-P/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NANTHITHA-P/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/NANTHITHA-P/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/NANTHITHA-P/Leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NANTHITHA-P/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/NANTHITHA-P/Leetcode/tree/master/1189-maximum-number-of-balloons) |
