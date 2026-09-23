@@ -451,6 +451,7 @@
 | ------- |
 | [0197-rising-temperature](https://github.com/NANTHITHA-P/Leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/NANTHITHA-P/Leetcode/tree/master/0584-find-customer-referee) |
+| [0596-classes-with-at-least-5-students](https://github.com/NANTHITHA-P/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/NANTHITHA-P/Leetcode/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/NANTHITHA-P/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1280-students-and-examinations](https://github.com/NANTHITHA-P/Leetcode/tree/master/1280-students-and-examinations) |
