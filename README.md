@@ -105,6 +105,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/NANTHITHA-P/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/NANTHITHA-P/Leetcode/tree/master/0739-daily-temperatures) |
+| [0812-largest-triangle-area](https://github.com/NANTHITHA-P/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/NANTHITHA-P/Leetcode/tree/master/0835-image-overlap) |
 | [0942-di-string-match](https://github.com/NANTHITHA-P/Leetcode/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/NANTHITHA-P/Leetcode/tree/master/0994-rotting-oranges) |
@@ -343,6 +344,7 @@
 | [0273-integer-to-english-words](https://github.com/NANTHITHA-P/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0396-rotate-function](https://github.com/NANTHITHA-P/Leetcode/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NANTHITHA-P/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0812-largest-triangle-area](https://github.com/NANTHITHA-P/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/NANTHITHA-P/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NANTHITHA-P/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NANTHITHA-P/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -497,6 +499,11 @@
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/NANTHITHA-P/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/NANTHITHA-P/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NANTHITHA-P/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/NANTHITHA-P/Leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
