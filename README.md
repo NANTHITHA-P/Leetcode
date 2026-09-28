@@ -29,6 +29,7 @@
 | [0942-di-string-match](https://github.com/NANTHITHA-P/Leetcode/tree/master/0942-di-string-match) |
 | [1189-maximum-number-of-balloons](https://github.com/NANTHITHA-P/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NANTHITHA-P/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NANTHITHA-P/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/NANTHITHA-P/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -445,6 +446,7 @@
 | [0316-remove-duplicate-letters](https://github.com/NANTHITHA-P/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/NANTHITHA-P/Leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/NANTHITHA-P/Leetcode/tree/master/0739-daily-temperatures) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NANTHITHA-P/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -509,4 +511,8 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/NANTHITHA-P/Leetcode/tree/master/0812-largest-triangle-area) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NANTHITHA-P/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
