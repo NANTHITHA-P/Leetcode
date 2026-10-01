@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/NANTHITHA-P/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/NANTHITHA-P/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NANTHITHA-P/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/NANTHITHA-P/Leetcode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/NANTHITHA-P/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/NANTHITHA-P/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/NANTHITHA-P/Leetcode/tree/master/0091-decode-ways) |
@@ -445,6 +446,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NANTHITHA-P/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/NANTHITHA-P/Leetcode/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/NANTHITHA-P/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/NANTHITHA-P/Leetcode/tree/master/0394-decode-string) |
@@ -517,5 +519,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NANTHITHA-P/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NANTHITHA-P/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
