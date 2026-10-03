@@ -29,6 +29,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/NANTHITHA-P/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0925-long-pressed-name](https://github.com/NANTHITHA-P/Leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/NANTHITHA-P/Leetcode/tree/master/0942-di-string-match) |
 | [1189-maximum-number-of-balloons](https://github.com/NANTHITHA-P/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/NANTHITHA-P/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -392,6 +393,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/NANTHITHA-P/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0925-long-pressed-name](https://github.com/NANTHITHA-P/Leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/NANTHITHA-P/Leetcode/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/NANTHITHA-P/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NANTHITHA-P/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
