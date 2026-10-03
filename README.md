@@ -112,6 +112,7 @@
 | [0739-daily-temperatures](https://github.com/NANTHITHA-P/Leetcode/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/NANTHITHA-P/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/NANTHITHA-P/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/NANTHITHA-P/Leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/NANTHITHA-P/Leetcode/tree/master/0835-image-overlap) |
 | [0942-di-string-match](https://github.com/NANTHITHA-P/Leetcode/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/NANTHITHA-P/Leetcode/tree/master/0994-rotting-oranges) |
@@ -145,6 +146,7 @@
 | [0463-island-perimeter](https://github.com/NANTHITHA-P/Leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/NANTHITHA-P/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/NANTHITHA-P/Leetcode/tree/master/0695-max-area-of-island) |
+| [0832-flipping-an-image](https://github.com/NANTHITHA-P/Leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/NANTHITHA-P/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/NANTHITHA-P/Leetcode/tree/master/0994-rotting-oranges) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NANTHITHA-P/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -170,6 +172,7 @@
 | ------- |
 | [0078-subsets](https://github.com/NANTHITHA-P/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0090-subsets-ii) |
+| [0832-flipping-an-image](https://github.com/NANTHITHA-P/Leetcode/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -393,6 +396,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/NANTHITHA-P/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/NANTHITHA-P/Leetcode/tree/master/0832-flipping-an-image) |
 | [0925-long-pressed-name](https://github.com/NANTHITHA-P/Leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/NANTHITHA-P/Leetcode/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/NANTHITHA-P/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -483,6 +487,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/NANTHITHA-P/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NANTHITHA-P/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/NANTHITHA-P/Leetcode/tree/master/0832-flipping-an-image) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NANTHITHA-P/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NANTHITHA-P/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
