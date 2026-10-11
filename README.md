@@ -131,6 +131,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NANTHITHA-P/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NANTHITHA-P/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/NANTHITHA-P/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NANTHITHA-P/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NANTHITHA-P/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3842-toggle-light-bulbs](https://github.com/NANTHITHA-P/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NANTHITHA-P/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -501,6 +502,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/NANTHITHA-P/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/NANTHITHA-P/Leetcode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NANTHITHA-P/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Doubly-Linked List
 |  |
 | ------- |
